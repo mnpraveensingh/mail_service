@@ -1,0 +1,9 @@
+Hi {{user}},
+
+{{body}} {{today}}.
+
+{{user}}, we request you not to reply to this mail.
+
+
+Thanks,
+{{sender}}
